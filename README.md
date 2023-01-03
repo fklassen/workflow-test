@@ -1,2 +1,2 @@
 # workflow-test
-Test github workflows
+Test GitHub workflows
